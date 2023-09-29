@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2015",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "legacy_uid": "97a039bd-67d2-2771-65a4-c35bfe28eb4d",
+  "instructors": {
+    "content": [
+      "da32551f-181b-fd93-6628-39dbe0972ea8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b03ba381-5727-0748-5bf4-b963de173383",
+    "website": "18-443-statistics-for-applications-spring-2015"
+  },
+  "course_title": "Statistics for Applications",
+  "course_description": "This course is a broad treatment of statistics, concentrating on specific statistical techniques used in science and industry. Topics include: hypothesis testing and estimation, confidence intervals, chi-square tests, nonparametric statistics, analysis of variance, regression, correlation, decision theory, and Bayesian statistics.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.650 (formerly 18.443)",
+  "course_image_thumbnail": {
+    "content": "b54c307c-0577-3b6a-1160-6a80dcea7475",
+    "website": "18-443-statistics-for-applications-spring-2015"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Lecture Notes",
+    "Projects"
+  ],
+  "site_uid": "f4147bb8-f1b0-4da8-81c1-c9c10193310d",
+  "site_short_id": "18.650-spring-2015",
+  "title": "Course Metadata"
+}
